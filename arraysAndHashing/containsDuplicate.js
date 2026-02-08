@@ -14,8 +14,6 @@ Output: false */
 
 //MY SOLUTIONS
 //Solution 1
-
-/*
 class Solution {
 
     hasDuplicate(nums) {
@@ -41,7 +39,6 @@ class Solution {
 //make the arr into a set
 //compare the length of the set to the length of the original arr
 //if lengths are not the same, then there are duplicates. return true
-*/
 
 //Solution 2
 /*
